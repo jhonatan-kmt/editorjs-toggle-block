@@ -79,7 +79,7 @@ This library is licensed under an MIT license. See [LICENSE][license] for detail
 
 ## Acknowledgements
 
-Made with 💙 by [kommitters Open Source](https://kommit.co)
+Made with 💙 by [kommitters Open Source](https://kommit.co).
 
 [license]: https://github.com/kommitters/editorjs-toggle-block/blob/main/LICENSE
 [coc]: https://github.com/kommitters/editorjs-toggle-block/blob/main/CODE_OF_CONDUCT.md
